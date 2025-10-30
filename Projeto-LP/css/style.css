@@ -1,0 +1,100 @@
+/*index*/
+
+header {
+    background-color: rgb(19, 233, 90);
+    text-align: center;
+    line-height: 0px;
+    padding: 20px;
+}
+
+.scrool{
+    
+}
+    .titulo {
+        font-size: 90px;
+    }
+
+    .box {
+        width: 150px;
+        height: 50px;
+        background-color: rgb(138, 50, 50);
+        border-radius: 50px;
+    }
+    
+        .inicio {
+            position: relative;
+            right: 60px;
+        }
+
+        .sobre {
+            position: relative;
+            right: 30px;
+        }
+
+        .disciplina {
+            position: relative;
+            left: 30px;
+        }
+
+        .contatos {
+            position: relative;
+            left: 60px;
+        }
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+    background-color: rgb(228, 228, 228);
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-bottom: 2000px;
+}
+
+    .perfil {
+        margin-bottom: -30px;
+    }
+
+        .fotoperfil {
+            border-radius: 10px;
+            position: relative;
+            left: 60px;
+            top: 50px;
+        }
+
+        .nome {
+            position: relative;
+            left: 320px;
+            top: -255px;
+            font-size: 50px;
+        }
+
+        .info {
+            position: relative;
+            line-height: 25px;
+            left: 320px;
+            top: -255px;
+            margin-right: 400px;
+        }
+
+    .resumo {
+        margin: 60px;
+        margin-top: -170px;
+        text-indent: 40px;
+        text-align: justify;
+        font-size: 20px;
+    }
+
+    
+    
+    footer {
+        position: fixed;
+        bottom: 0px;
+        left: 0px;
+        width: 100%;
+        background-color: aqua;
+    }
+/*sobre*/
