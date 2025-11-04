@@ -1,0 +1,115 @@
+/*Index*/
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+    header {
+        background-color: #788199;
+        text-align: center;
+        line-height: 0px;
+        padding: 2vw;
+    }
+
+        .titulo {
+            font-size: 4vw;
+        }
+
+        .box {
+            width: 7vw;
+            height: 5vh;
+            background-color: #828796;
+            border-radius: 5vw;
+            font-size: 1vw;
+        }
+        
+            .inicio {
+                position: relative;
+                right: 6vw;
+            }
+
+            .sobre {
+                position: relative;
+                right: 3vw;
+            }
+
+            .disciplina {
+                position: relative;
+                left: 3vw;
+            }
+
+            .contatos {
+                position: relative;
+                left: 6vw;
+            }
+
+.container {
+    background-color: #e0e0e0;
+    margin: 0 20vw 20vh 20vw;
+    padding: 3vw;
+}
+
+/*Página Principal*/
+
+    .perfil {
+        padding-right: 20vw;
+    }
+
+        .fotoperfil {
+            position: relative;
+            border-radius: 1vw;
+            height: 40vh;
+        }
+
+        .nome {
+            position: relative;
+            left: 18vw;
+            top: -40vh;
+            font-size: 3vw;
+        }
+
+        .info {
+            position: relative;
+            line-height: 2.5vh;
+            left: 18vw;
+            top: -40vh;
+            font-size: 1vw;
+        }
+
+    .resumo {
+        margin: -20vh 0 0 0;
+        text-align: justify;
+        text-indent: 4vw;
+        font-size: 1vw;
+    }
+
+    
+    
+    footer {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100vw;
+        height: 4vh;
+        font-size: 0.8vw;
+        text-align: center;
+        background-color: aqua;
+    }
+
+/*Sobre*/
+
+/*Formação*/
+
+/*Disciplina*/
+
+/*Contatos*/
+
+.formulario {
+    position: relative;
+    width: 7vw;
+    height: 5vh;
+    background-color: rgb(50, 138, 104);
+    border-radius: 5vw;
+}
